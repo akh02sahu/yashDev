@@ -5,4 +5,7 @@ public with sharing class AccountController {
     public static void add(){
 
     }
+    public static void subtract(){
+
+    }
 }
